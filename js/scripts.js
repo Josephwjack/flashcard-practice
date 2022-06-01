@@ -34,7 +34,6 @@ $(document).ready(function() {
   $("button#green").click(function() {
     $("body").removeClass();
     $("body").addClass("green-background");
-    $("body").toggle(".green-background");
   });
 
   $("button#yellow").click(function() {
@@ -46,5 +45,12 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("red-background");
   });
+
+  $("button#primary").click(function() {
+    $("body").removeClass();
+    $("body").addClass("body");
+  });
 });
+
+
 

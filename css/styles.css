@@ -1,5 +1,5 @@
 body {
-  background-color: orange;
+  background-color: blue;
 }
 
 h1 {
@@ -34,8 +34,7 @@ h1 {
   background-color: lightgray;
 }
 
-.green-background {
-  display: none; 
+.green-background { 
   background-color: green;
 }
 
