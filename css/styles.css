@@ -1,0 +1,12 @@
+.word {
+  cursor: pointer;
+  color: #0088cc
+}
+
+.word:hover {
+  text-decoration: underline;
+}
+
+.def {
+  display: none;
+}
