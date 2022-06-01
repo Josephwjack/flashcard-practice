@@ -1,6 +1,6 @@
 # _Flash Card Site_
 
-#### By _**Alex Shevlin Justin Peters Joseph Jack**_
+#### By _**Alex Shevlin, Justin Peters, Joseph Jack**_
 
 #### _A webpage to allow users to click on words and show definitions._
 
@@ -30,4 +30,4 @@ _A webpage where users interact with the word they wish to learn about. By click
 
 [MIT](/LICENSE)
 
-Copyright (c) _2022_ _Alex Shevlin Justin Peters Joseph Jack_
+Copyright (c) _2022_ _Alex Shevlin, Justin Peters, Joseph Jack_
