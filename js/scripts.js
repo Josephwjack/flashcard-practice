@@ -30,4 +30,21 @@ $(document).ready(function() {
   $("#parameter").click(function() {
     $("#parameter1").toggle();
   });
-})
+
+  $("button#green").click(function() {
+    $("body").removeClass();
+    $("body").addClass("green-background");
+    $("body").toggle(".green-background");
+  });
+
+  $("button#yellow").click(function() {
+    $("body").removeClass();
+    $("body").addClass("yellow-background");
+  });
+
+  $("button#red").click(function() {
+    $("body").removeClass();
+    $("body").addClass("red-background");
+  });
+});
+

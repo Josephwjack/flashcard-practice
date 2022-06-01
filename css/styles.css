@@ -1,3 +1,25 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  font-size: 35px;
+  text-align: center;
+}
+
+#vnc {
+  font-size: 25px;
+}
+
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-body {
+  padding:5px;
+}
+
 .word {
   cursor: pointer;
   color: #0088cc
@@ -9,4 +31,18 @@
 
 .def {
   display: none;
+  background-color: lightgray;
+}
+
+.green-background {
+  display: none; 
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
 }
