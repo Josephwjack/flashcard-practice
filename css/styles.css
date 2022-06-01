@@ -34,6 +34,10 @@ h1 {
   background-color: lightgray;
 }
 
+.logo {
+  display: none;
+}
+
 .green-background { 
   background-color: green;
 }

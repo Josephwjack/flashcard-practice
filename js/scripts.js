@@ -1,6 +1,7 @@
 $(document).ready(function() {
   $("#javascript").click(function() {
     $("#javascript1").toggle();
+    $("#jslogo").toggle();
   });
 
   $("#operator").click(function() {
