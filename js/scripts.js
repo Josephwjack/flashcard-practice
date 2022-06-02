@@ -1,10 +1,11 @@
 $(document).ready(function() {
-  $("#javascript").click(function() {
+  $("#javascript,#javascript1").click(function() {
     $("#javascript1").toggle();
     $("#jslogo").toggle();
   });
 
-  $("#operator").click(function() {
+  $("#operator,#operator1").click(function() {
+    $("#operator").toggle();
     $("#operator1").toggle();
   });
 
